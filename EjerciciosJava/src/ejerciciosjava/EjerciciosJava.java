@@ -45,6 +45,7 @@ public class EjerciciosJava {
                                 capturado = true;
                                 System.out.println("Ya esta, pokemon capturado!");
                             } else {
+                                System.out.println("O no, se ha escapado")
                                 pokeball--;
                                 break;
                             }
@@ -68,6 +69,7 @@ public class EjerciciosJava {
                                 capturado = true;
                                 System.out.println("Ya esta, pokemon capturado!");
                             } else {
+                                System.out.println("O no, se ha escapado")
                                 pokeball--;
                                 break;
                             }
